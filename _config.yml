@@ -22,7 +22,7 @@ repository               : "LostinLuo/LostinLuo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Letian Mei"
   #pronouns         : # example: "she/her"  
   bio              : "An undergraduate student in the Department of Mathematics at Xi’an Jiaotong University."
@@ -130,9 +130,9 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
+#twitter:
   username               : &twitter
-facebook:
+#facebook:
   username               :
   app_id                 :
   publisher              :
