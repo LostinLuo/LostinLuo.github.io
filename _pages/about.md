@@ -9,4 +9,4 @@ redirect_from:
 
 I'm an undergraduate student in the Department of Mathematics at Xi'an Jiaotong University.
 
-My research interest includes Analytic Number Theory and Machine Learning. 
+My research interest includes Deep Learning and Compressed Sensing.
