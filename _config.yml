@@ -23,7 +23,7 @@ repository               : "LostinLuo/LostinLuo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Letian Mei"
   pronouns         : # example: "she/her"  
   bio              : "An undergraduate student at the School of Mathematics and Statistics of Xi'an Jiaotong University."
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
